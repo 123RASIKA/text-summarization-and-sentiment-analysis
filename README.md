@@ -13,6 +13,7 @@ Algorithms used in summarizing the text are:
 ->Bag of Words (BOW) model
 ->Heapq (Heap Queue)
 -> Tf-IDF ( Term Frequency- Inverse Term Frequency) model
+
 Deep Learning approaches used for Sentiment Analysis used are:
 -> Simple/Basic Neural Network
 -> RNN(Recurrent Neural Network)-LSTM(Long Short Term Memory) 
