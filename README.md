@@ -8,6 +8,7 @@ documen. In this project, sentiments are categorized as "positive" or "negative"
 The system consists of two modules:
 1. Text Summarization
 2. Sentiment Analysis
+   
 Algorithms used in summarizing the text are:
 ->Bag of Words (BOW) model
 ->Heapq (Heap Queue)
