@@ -1,5 +1,5 @@
 # text-summarization-and-sentiment-analysis
-Built a project that combines both the techniques of text summarization and sentiment analysis for a text data.
+It combines both the techniques of text summarization and sentiment analysis for a text data.
 In the text summarization module , the summary of the document is created using NLP extractive approach for summarization,
 which functions by identifying the important sentences or excerpts from the document and reproduce
 them as a part of the summary.
